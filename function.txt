@@ -1,0 +1,5 @@
+//write a function in your name
+
+function test(){
+         console.log('This is a sample function');
+}
