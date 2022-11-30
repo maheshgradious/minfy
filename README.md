@@ -1,0 +1,2 @@
+# minfy
+Test repositary
