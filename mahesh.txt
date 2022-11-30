@@ -1,0 +1,5 @@
+//write a function in your name
+
+function mahesh(){
+         console.log('This is mahesh');
+}
